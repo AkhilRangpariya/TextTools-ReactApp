@@ -1,6 +1,13 @@
+This was a ToDo's listing Web Application for the user. User can write there today success list over here and maintain they work checklisting for more productivity. This web app build using React.js. It's javascript library for easy to multiple time use same component.
+
+CREATED BY : Akhil Rangpariya (H)
+
+![image](https://user-images.githubusercontent.com/99761772/209705754-61366c6f-bfa3-4a79-a9cd-6be6aaa7a459.png)
+
+
+
 # Getting Started with Create React App 
-CREATED BY Akhil Rangpariya 
-(T)
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,3 +76,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Introduce Git & GitHub
+
+
+
+1.Firstly, fork the Repository. This will make an exact copy of the original repository into your Github Account.
+
+2.Copy the URL of the Repository by clickling on a Code button.
+
+3.Create a new folder in your PC and then open the folder in VS code.
+
+4.Now, Open VS code Terminal and execute the git clone [URL] command.
+
+5.You can now make changes in the project.
+
+6.After making changes, execute the git add . command.
+
+7.Then execute git commnit -m "message".
+
+8.Execute git push command and this will push the code to your repository.
+
+9.Now you can create a new pull/merge request from your Github login.
+
+10.Wait for the Owner to accept your pull/merge request
