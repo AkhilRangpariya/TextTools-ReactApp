@@ -1,10 +1,4 @@
-This was a ToDo's listing Web Application for the user. User can write there today success list over here and maintain they work checklisting for more productivity. This web app build using React.js. It's javascript library for easy to multiple time use same component.
-
-CREATED BY : Akhil Rangpariya (H)
-
-![image](https://user-images.githubusercontent.com/99761772/209705754-61366c6f-bfa3-4a79-a9cd-6be6aaa7a459.png)
-
-
+#   TextTools-ReactApp
 
 # Getting Started with Create React App 
  
